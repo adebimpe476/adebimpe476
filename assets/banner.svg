@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070812"/>
+    <stop offset="55%" stop-color="#11152a"/>
+    <stop offset="100%" stop-color="#07131f"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8b5cf6"/>
+    <stop offset="55%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#22c55e"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+<circle cx="1060" cy="60" r="150" fill="#8b5cf6" opacity=".12" filter="url(#glow)"/>
+<circle cx="90" cy="320" r="160" fill="#38bdf8" opacity=".10" filter="url(#glow)"/>
+<g opacity=".10" stroke="#fff"><path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200"/><path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/></g>
+<rect x="62" y="54" width="72" height="72" rx="22" fill="url(#accent)"/>
+<text x="98" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" fill="white">AA</text>
+<text x="62" y="177" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#f8fafc">Akeem Adebimpe</text>
+<text x="62" y="217" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#aeb9d6">Community Manager · Community Operations · Ecosystem Growth</text>
+<rect x="62" y="246" width="760" height="5" rx="3" fill="url(#accent)"/>
+<text x="62" y="292" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#dbe4ff">Strategy • Partnerships • KOLs • Campaigns • AMAs • Live Sessions • Growth • Analytics</text>
+<g transform="translate(873 198)">
+ <rect width="255" height="100" rx="22" fill="#ffffff08" stroke="#ffffff1c"/>
+ <text x="20" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#9fb4ff">COMMUNITY SCALE</text>
+ <text x="20" y="73" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#ffffff">11,000+</text>
+ <text x="158" y="73" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9ca9c5">members</text>
+</g>
+</svg>
