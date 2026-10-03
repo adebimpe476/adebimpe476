@@ -153,6 +153,25 @@
 
 ---
 
+## Community Operations System
+
+<div align="center">
+
+### [Explore the full operating library →](https://github.com/adebimpe476/akeem-community-portfolio/blob/main/COMMUNITY-OPS-SYSTEM.md)
+
+**30+ practical assets** across community lifecycle, partnerships & KOLs, campaigns, live programming, moderation, analytics and executive reporting.
+
+</div>
+
+| System | Selected assets |
+|---|---|
+| **Lifecycle** | Community audit · onboarding · retention/reactivation · ambassadors · contributor programs · 30/60/90 plan |
+| **Ecosystem** | Partnership pipeline · KOL brief · partner scorecard · affiliate activation · outreach library |
+| **Programs** | AMA guest brief · live session checklist · campaign retrospective · crisis response · moderator handbook |
+| **Analytics** | Health scorecard · weekly report · executive report · KPI glossary · feedback routing · launch dashboard |
+
+---
+
 ## My community operating system
 
 ```mermaid
